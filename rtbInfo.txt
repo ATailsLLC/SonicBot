@@ -1,0 +1,5 @@
+id: 1860
+icon: gold-brick_16
+type: Client-side Mods
+title: SonicBot
+version: V3
