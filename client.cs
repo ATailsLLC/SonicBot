@@ -1,17 +1,17 @@
 //-----------------------
 //The name of our chatbot
 //-----------------------
-$chatBot::name = "Sonic the Hedgehog";
+$chatBot::name = "Anus Exploder";
  
 //-------------------------------------------------------------
 //Our Chatbot's Responses, anything that uses multiple
 //Words should instead use an underscore "_" instead of a space
 //Users can constantly add new keywords to respond to
 //-------------------------------------------------------------
-$chatBot::response["Hi"] = "Wazzap!";
-$chatBot::response["Lol"] = "Er,_i_dont_get_whats_so_funny..." ;
-$chatBot::responce["Whats your name"] = "Sonic,_Sonic_the_Hedgehog!";
-$chatBot::responce["sthhelp"] = "SBHelp:_Hi,Lol,_Whats_your_name";
+$chatBot::response["Hi"] = "Greeetings.";
+$chatBot::response["Lol"] = "Stop laughing at me.";
+$chatBot::responcse["Whats your name"] = "Anus, Anus Exploder!";
+$chatBot::responce["aehelp"] = "Anus Exploder Help: Hi, Lol, Whats your name";
 $chatBot::responce[""] = "";
  
 //--------------------------------------------------------
